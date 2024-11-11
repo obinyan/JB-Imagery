@@ -63,6 +63,7 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
+    gap: 500px;
     position: absolute;
     top: 0;
     z-index: 999;
@@ -78,8 +79,8 @@ header{
 /*styling the welcome note*/
 .welcome-note{
     position: absolute;
-    top: 500px;
-    left: 500px;
+    top: 600px;
+    left: 700px;
 }
 
 .welcome-note h2{
@@ -89,7 +90,7 @@ header{
 /*styling the first and second horizontal rule*/
 .hr-1{
     width: 400px;
-    height: 3px;
+    height: 1.8px;
     margin: 20px auto;
     background-color: #fff;
 }
@@ -99,7 +100,7 @@ header{
     display: flex;
 }
 
-.gallery li{
+.gallery a{
     display: flex;
     flex-direction: column;
 }
