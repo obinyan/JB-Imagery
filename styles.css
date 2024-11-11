@@ -157,11 +157,33 @@ header{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    
+    grid-gap: -20px;
 }
 
+/*styling the third horizontal rule*/
+.hr-3{
+    height: 1.2;
+    width: 800px;
+    margin: 15px 0px 7px 20px;
+}
 
+/*styling the footer details*/
+.copyright{
+    display: flex;
+    gap: 700px;
+}
 
+.footer-nav-icons img{
+    height: 25px;
+    width: 25px;
+}
+
+/*styling the fourth horizontal rule*/
+.hr-4{
+    height: 1.2;
+    width: 800px;
+    margin: 7px 0px 15px 20px;
+}
 
 
 
