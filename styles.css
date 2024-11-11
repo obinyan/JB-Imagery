@@ -62,7 +62,7 @@ header{
 /*styling the heading panel*/
 .heading-panel{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-end;
     position: absolute;
     top: 0;
     z-index: 999;
@@ -71,8 +71,25 @@ header{
 .nav-links ul{
     display: flex;
     justify-content: space-between;
-    gap: 5px;
+    gap: 15px;
     z-index: 999;
+}
+
+/*styling the welcome note*/
+.welcome-note{
+    position: absolute;
+    top: 200px;
+}
+
+.welcome-note h2{
+    text-align: center;
+}
+
+/*styling the first and second horizontal rule*/
+.hr-1{
+    width: 400px;
+    height: 5px;
+    margin: 20px auto;
 }
 
 
