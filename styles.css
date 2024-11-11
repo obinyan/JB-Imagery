@@ -149,7 +149,7 @@ header{
     font-size: 20px;
     width: 700px;
     text-align: center;
-    margin: 0px auto 80px auto;
+    margin: 0px auto 90px auto;
 }
 
 /*styling the footer*/
@@ -169,7 +169,7 @@ header{
 /*styling the footer details*/
 .copyright{
     display: flex;
-    gap: 900px;
+    gap: 940px;
     margin: 0px 0px 0px 50px;
 }
 
@@ -182,7 +182,7 @@ header{
 .hr-4{
     height: 1.2;
     width: 90%;
-    margin: 7px 0px 15px 50px;
+    margin: 7px 0px 25px 50px;
 }
 
 
