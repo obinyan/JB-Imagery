@@ -96,8 +96,18 @@ header{
 }
 
 /*styling the first section (portfolio section)*/
+.first-section{
+    width: 100vw;
+    height: 100vh;
+}
+
 .gallery ul{
     display: flex;
+}
+
+.gallery img{
+    width: 450px;
+    height: 500px;
 }
 
 .gallery a{
