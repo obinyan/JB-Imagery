@@ -150,6 +150,14 @@ header{
     width: 700px;
 }
 
+/*styling the footer*/
+.footer-nav-links ul{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+
 
 
 
