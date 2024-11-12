@@ -84,6 +84,7 @@ header{
     gap: 35px;
     z-index: 999;
     margin: 20px 0 0 0;
+    color: white;
 }
 
 /*styling the first horizontal rule*/
@@ -95,6 +96,10 @@ header{
 }
 
 /*styling the first section (about section)*/
+.about{
+    width: 90%;
+}
+
 .about img{
     width: 400px;
     height: 500px;
@@ -107,7 +112,7 @@ header{
     font-weight: 400;
     font-style: normal;
     font-size: 21px;
-    margin: 70px 100px 0 0;
+    margin: 100px 100px 0 0;
 }
 
 /*styling the second horizontal rule*/
@@ -141,11 +146,12 @@ header{
 .arrow-link{
     display: flex;
     gap: 50px;
-    margin: 20px auto;
+    margin: -20px 0 50px 0;
 }
 
 .arrow-link i{
     color: #000;
+    text-align: center;
 }
 
 /*styling the footer*/
