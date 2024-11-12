@@ -134,7 +134,7 @@ header{
     font-style: normal;
     text-align: center;
     font-size: 28px;
-    margin: 100px 0px 0px 0px;
+    margin: 100px 0px 15px 0px;
 }
 
 .testimonial p{
@@ -144,7 +144,7 @@ header{
     font-size: 20px;
     width: 700px;
     text-align: center;
-    margin: 0px auto 120px auto;
+    margin: 5px auto 100px auto;
 }
 
 .arrow-link{
