@@ -144,6 +144,10 @@ header{
     margin: 20px auto;
 }
 
+.arrow-link i{
+    color: #000;
+}
+
 /*styling the footer*/
 .footer-nav-links ul{
     display: flex;
