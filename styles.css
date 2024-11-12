@@ -7,8 +7,8 @@ body{
     font-family: "Abel", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     
 }
 
@@ -201,6 +201,14 @@ header{
     height: 1.2;
     width: 90%;
     margin: 7px 0px 25px 50px;
+}
+
+/*styling the first section (about section)*/
+.about img{
+    width: 400px;
+    height: 550px;
+    float: left;
+    margin: 50px 15px 15px 100px;
 }
 
 
