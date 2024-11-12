@@ -63,10 +63,14 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    gap: 800px;
+    gap: 680px;
     position: absolute;
     top: 0;
     z-index: 999;
+}
+
+.logo{
+    margin: 10px 0 0 20px;
 }
 
 .logo img{
@@ -125,7 +129,7 @@ header{
 
 .gallery img{
     width: 430px;
-    height: 520px;
+    height: 600px;
 }
 
 .gallery a{
@@ -141,7 +145,7 @@ header{
 .hr-2{
     width: 400px;
     height: 1.3px;
-    margin: -15px auto 0 auto;
+    margin: 50px auto 0 auto;
     background-color: #fff;
 }
 
