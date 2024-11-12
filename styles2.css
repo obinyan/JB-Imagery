@@ -108,7 +108,7 @@ header{
     width: 400px;
     height: 500px;
     float: left;
-    margin: 0px 10px 0px 0px;*/
+    margin: 0px 10px 0px 0px;
 }
 
 .about p{
@@ -150,7 +150,7 @@ header{
 .arrow-link{
     display: flex;
     gap: 80px;
-    margin: -35px 0px 50px 640px;
+    margin: -35px 0px 50px 620px;
 }
 
 .arrow-link i{
