@@ -118,6 +118,31 @@ header{
     background-color: #000;
 }
 
+/*styling the second section (testimonial section)*/
+.testimonial h2{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 28px;
+    margin: 100px 0px 0px 0px;
+}
+
+.testimonial p{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    width: 700px;
+    text-align: center;
+    margin: 0px auto 120px auto;
+}
+
+.arrow-link{
+    display: flex;
+    gap: 50px;
+    margin: 20px auto;
+}
 
 /*styling the footer*/
 .footer-nav-links ul{
