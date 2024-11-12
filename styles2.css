@@ -7,8 +7,8 @@ body{
     font-family: "Abel", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     
 }
 
@@ -100,6 +100,14 @@ header{
     height: 550px;
     float: left;
     margin: 50px 15px 15px 100px;
+}
+
+/*styling the second horizontal rule*/
+.hr-2{
+    width: 400px;
+    height: 1.3px;
+    margin: 100px auto 0 auto;
+    background-color: #fff;
 }
 
 
