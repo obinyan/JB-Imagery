@@ -63,7 +63,7 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    gap: 680px;
+    gap: 660px;
     position: absolute;
     top: 0;
     z-index: 999;
@@ -187,7 +187,7 @@ header{
 /*styling the footer details*/
 .copyright{
     display: flex;
-    gap: 940px;
+    gap: 910px;
     margin: 0px 0px 0px 50px;
 }
 
