@@ -156,7 +156,7 @@ header{
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
-    width: 58   0px;
+    width: 580px;
     /*text-align: center;*/
     /*margin: 5px auto 100px auto;*/
 }
@@ -166,8 +166,6 @@ header{
     flex-direction: row;
     gap: 30px;
     margin: 40px 0 80px 360px;
-    background-color: #000;
-    color: white;
 }
 
 .arrow-link{
