@@ -175,7 +175,7 @@ header{
 }
 
 .arrow-link i{
-    color: #000;
+    color: #fff;
     text-align: center;
 }
 
@@ -184,6 +184,10 @@ header{
     display: flex;
     gap: 20px;
     margin: 0px 0px 0px 50px;
+}
+
+.footer-nav-links a{
+    color: #fff;
 }
 
 /*styling the third horizontal rule*/

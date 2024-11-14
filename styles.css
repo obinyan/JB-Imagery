@@ -177,6 +177,10 @@ header{
     margin: 0px 0px 0px 50px;
 }
 
+.footer-nav-links a{
+    color: #000;
+}
+
 /*styling the third horizontal rule*/
 .hr-3{
     height: 1.2;
