@@ -118,6 +118,7 @@ header{
     font-weight: 400;
     font-style: normal;
     margin: 40px 0px -10px 0px;
+    color: #000;
 }
 
 .gallery ul{
@@ -158,6 +159,7 @@ header{
     text-align: center;
     font-size: 28px;
     margin: 100px 0px 0px 0px;
+    color: #000;
 }
 
 .testimonial p{
@@ -168,6 +170,7 @@ header{
     width: 700px;
     text-align: center;
     margin: 0px auto 120px auto;
+    color: #000;
 }
 
 /*styling the footer*/
