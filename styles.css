@@ -70,12 +70,13 @@ header{
 }
 
 .logo{
-    margin: 10px 0 0 20px;
+    /*margin: 10px 0 0 20px;*/
     z-index: 999;
 }
 
-.logo img{
-    width: 200px;
+.nav-links img{
+    width: 180px;
+    height: 95px;
 }
 
 .nav-links ul{
