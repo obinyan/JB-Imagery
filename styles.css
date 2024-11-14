@@ -63,19 +63,20 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    gap: 660px;
+    /*gap: 660px;*/
     position: absolute;
-    top: 0;
+    top: 20px;
+    left: 100px;
     z-index: 999;
 }
 
 .logo{
-    /*margin: 10px 0 0 20px;*/
+    margin: 10px 0 0 20px;
     z-index: 999;
 }
 
 .nav-links img{
-    width: 180px;
+    width: 200px;
     height: 95px;
 }
 
@@ -131,7 +132,7 @@ header{
 
 .gallery img{
     width: 410px;
-    height: 560px;
+    height: 570px;
 }
 
 .gallery a{
