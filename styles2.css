@@ -208,6 +208,10 @@ header{
     margin: 0px 0px 0px 50px;
 }
 
+.copyright h3{
+    color: #fff;
+}
+
 .footer-nav-icons img{
     height: 25px;
     width: 25px;
