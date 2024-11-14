@@ -63,14 +63,14 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    gap: 680px;
+    /*gap: 680px;*/
     position: absolute;
     top: 0;
     z-index: 999;
 }
 
 .logo{
-    margin: 10px 0 0 20px;
+    /*margin: 10px 0 0 20px;*/
     z-index: 999;
 }
 
@@ -83,11 +83,15 @@ header{
     justify-content: space-between;
     gap: 35px;
     z-index: 999;
-    margin: 20px 0 0 0;
+    margin: 20px auto 0 auto;
+    /*position: absolute;
+    top: 10px;
+    left: 200px;*/
 }
 
 .nav-links a{
     color: white;
+    margin: 10px 0 0 0 ;
 }
 
 /*styling the first horizontal rule*/
