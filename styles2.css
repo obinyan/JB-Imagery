@@ -146,6 +146,7 @@ header{
     font-weight: 400;
     font-style: normal;
     /*text-align: center;*/
+    align-content: center;
     font-size: 28px;
     /*margin: 40px 0px 15px 0px;*/
 }
@@ -163,6 +164,7 @@ header{
 .review{
     display: flex;
     margin: 20px auto;
+
 }
 
 .arrow-link{
