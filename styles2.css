@@ -8,7 +8,7 @@ body{
     font-weight: 400;
     font-style: normal;
     color: black;
-    background-color: white;
+    background-color: #f2f2f2;
     
 }
 
@@ -63,14 +63,14 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    /*gap: 680px;*/
+    gap: 570px;
     position: absolute;
     top: 0;
     z-index: 999;
 }
 
 .logo{
-    /*margin: 10px 0 0 20px;*/
+    margin: 10px 0 0 20px;
     z-index: 999;
 }
 
@@ -84,14 +84,14 @@ header{
     gap: 35px;
     z-index: 999;
     margin: 20px auto 0 auto;
-    position: absolute;
+    /*position: absolute;
     top: 10px;
-    left: 200px;
+    left: 200px;*/
 }
 
 .nav-links a{
     color: white;
-    margin: 10px 0 0 0;
+    margin: 10px 0 0 0 ;
 }
 
 /*styling the first horizontal rule*/

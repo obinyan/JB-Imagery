@@ -63,7 +63,7 @@ header{
 .heading-panel{
     display: flex;
     justify-content: space-between;
-    gap: 660px;
+    gap: 570px;
     position: absolute;
     top: 0;
     z-index: 999;
