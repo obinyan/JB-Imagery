@@ -112,7 +112,7 @@ header{
     width: 400px;
     height: 500px;
     float: left;
-    margin: 0px 10px 0px 0px;
+    margin: 5px 10px -2px 0px;
 }
 
 .about p{
@@ -138,7 +138,7 @@ header{
     font-style: normal;
     text-align: center;
     font-size: 34px;
-    margin: 55px 0px 0px 0px;
+    margin: 65px 0px 0px 0px;
 }
 
 .testimonial h3{
@@ -156,7 +156,7 @@ header{
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
-    width: 580px;
+    width: 58   0px;
     /*text-align: center;*/
     /*margin: 5px auto 100px auto;*/
 }
@@ -165,8 +165,9 @@ header{
     display: flex;
     flex-direction: row;
     gap: 30px;
-    margin: 20px 0 60px 400px;
-
+    margin: 40px 0 80px 360px;
+    background-color: #000;
+    color: white;
 }
 
 .arrow-link{
