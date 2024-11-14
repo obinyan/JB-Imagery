@@ -99,9 +99,17 @@ header{
 /*styling the first horizontal rule*/
 .hr-1{
     width: 400px;
-    height: 1.3px;
+    height: 1px;
     margin: 80px auto 0 auto;
-    background-color: #000;
+    background-color: #fff;
+}
+
+/*styling the second horizontal rule*/
+.hr-2{
+    width: 400px;
+    height: 1px;
+    margin: 80px auto 0 auto;
+    background-color: #fff;
 }
 
 /*styling the footer*/
@@ -113,7 +121,7 @@ header{
 
 /*styling the third horizontal rule*/
 .hr-3{
-    height: 1.2;
+    height: 1px;
     width: 90%;
     margin: 15px 0px 7px 50px;
 }
@@ -132,7 +140,7 @@ header{
 
 /*styling the fourth horizontal rule*/
 .hr-4{
-    height: 1.2;
+    height: 1px;
     width: 90%;
     margin: 7px 0px 25px 50px;
 }
