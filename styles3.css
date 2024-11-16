@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: blur(2px);
+    filter: blur(1px);
   }
   
 .slide {
@@ -97,6 +97,31 @@ header{
     margin: 10px 0 0 0 ;
 }
 
+/*styling the contact question area*/
+.question h2{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+}
+
+.question h3{
+    font-family: "Neucha", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+}
+
+.question p{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
 /*styling the first horizontal rule*/
 .hr-1{
     width: 400px;
@@ -105,13 +130,17 @@ header{
     background-color: #fff;
 }
 
+.first-section{
+    background-color: #1a1a1a;
+}
+
 .first-section-container{
     display: flex;
 }
 
 /*styling the complemetary note*/
 .first-section h2{
-    font-size: 30px;
+    font-size: 32px;
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
@@ -120,7 +149,7 @@ header{
 
 .paragraph-1{
     width: 700px;
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
@@ -140,7 +169,7 @@ form{
     display: flex;
     flex-direction: column;
     gap: 2px;
-    margin: 10px 0px 0px 180px;
+    margin: 10px 0px 0px 240px;
 }
 
 form label{
