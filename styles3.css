@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: brightness(0.7);
+    filter: brightness(0.9);
   }
   
 .slide {
@@ -107,7 +107,6 @@ header{
 
 .first-section-container{
     display: flex;
-    gap: 30px;
 }
 
 /*styling the complemetary note*/
@@ -154,6 +153,11 @@ form label{
 form input{
     height: 30px;
     width: 400px;
+    background: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
 }
 
 form select{
@@ -165,10 +169,11 @@ form textarea{
 }
 
 .submit-btn{
-    width: 300px;
-    height: 25px;
+    width: 250px;
+    height: 40px;
     border-radius: 12px;
     font-family: "Neucha", cursive;
+    font-size: 20px;
 }
 
 /*styling the address section*/
@@ -176,6 +181,9 @@ form textarea{
     margin: 50px 0px 0px 0px;
     display: flex;
     flex-direction: column;
+    position: absolute;
+    top: 20px;
+    
 }
 
 .address-content h3{
