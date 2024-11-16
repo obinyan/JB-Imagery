@@ -172,11 +172,16 @@ form textarea{
 }
 
 /*styling the address section*/
+.address-content{
+    margin: 40px 0px 0px 0px;
+}
+
 .address-content h3{
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 25px; 
+    margin: 10px 0px 10px 0px;
 }
 
 .address-content h4{
@@ -184,6 +189,7 @@ form textarea{
     font-weight: 400;
     font-style: normal;
     font-size: 22px;
+    margin: 10px 0px 10px 0px;
 }
 
 .address-content p{
