@@ -166,6 +166,12 @@ form select{
 
 form textarea{
     width: 400px;
+    background-color: #000;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border: 1px solid #fff;
+    outline: none;
 }
 
 .submit-btn{
