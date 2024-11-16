@@ -179,7 +179,7 @@ form{
     display: flex;
     flex-direction: column;
     gap: 2px;
-    margin: 10px 0px 0px 270px;
+    margin: 10px 0px 0px 300px;
 }
 
 form label{
