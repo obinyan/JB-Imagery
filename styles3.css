@@ -101,8 +101,8 @@ header{
 .question{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
-    top: 360px;
-    left: 400px;
+    top: 400px;
+    left: 600px;
     color: #fff;
 }
 
@@ -159,7 +159,7 @@ header{
 }
 
 .paragraph-1{
-    width: 760px;
+    width: 800px;
     font-size: 20px;
     font-family: "Neucha", cursive;
     font-weight: 400;
