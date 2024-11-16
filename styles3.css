@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: brightness(0.9);
+    filter: blur(20px);
   }
   
 .slide {
