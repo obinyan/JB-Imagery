@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: blur(5px);
+    filter: blur(4px);
   }
   
 .slide {
@@ -102,7 +102,7 @@ header{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
     top: 400px;
-    left: 600px;
+    left: 540px;
     color: #fff;
 }
 
