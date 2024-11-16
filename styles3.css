@@ -131,7 +131,24 @@ header{
     margin: 30px 0px 10px 200px;
 }
 
+.form-content form{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 10px 0px 0px 220px;
+}
 
+.form-content label{
+    font-size: 14px;
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form-content input{
+    height: 20px;
+    width: 400px;
+}
 
 /*styling the second horizontal rule*/
 .hr-2{
