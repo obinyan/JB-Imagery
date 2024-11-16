@@ -133,7 +133,7 @@ form h3{
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 18px;
+    font-size: 25px;
     margin: 30px 0px 10px 160px;
 }
 
@@ -173,7 +173,9 @@ form textarea{
 
 /*styling the address section*/
 .address-content{
-    margin: 40px 0px 0px 0px;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
 }
 
 .address-content h3{
@@ -189,7 +191,7 @@ form textarea{
     font-weight: 400;
     font-style: normal;
     font-size: 22px;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 0px; 
 }
 
 .address-content p{
@@ -197,7 +199,7 @@ form textarea{
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
-    width: 300px;
+    width: 270px;
 }
 
 /*styling the second horizontal rule*/
