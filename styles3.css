@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: blur(3px);
+    filter: blur(5px);
   }
   
 .slide {
@@ -101,7 +101,8 @@ header{
 .question{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
-    top: 300px;
+    top: 360px;
+    left: 400px;
     color: #fff;
 }
 
