@@ -198,6 +198,7 @@ form input{
     border-right: none;
     border-top: none;
     outline: none;
+    color: #fff;
 }
 
 form select{
@@ -213,6 +214,7 @@ form textarea{
     border-top: none;
     border-bottom: 1px solid #fff;
     outline: none;
+    color: #fff;
 }
 
 .submit-btn{
