@@ -41,7 +41,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: blur(1px);
+    filter: blur(3px);
   }
   
 .slide {
@@ -101,7 +101,7 @@ header{
 .question{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
-    top: 100px;
+    top: 300px;
     color: #fff;
 }
 
@@ -118,7 +118,7 @@ header{
     font-family: "Neucha", cursive;
     font-weight: bold;
     font-style: normal;
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
     margin: 10px 0px 20px 0px;
 }
@@ -158,7 +158,7 @@ header{
 }
 
 .paragraph-1{
-    width: 700px;
+    width: 760px;
     font-size: 20px;
     font-family: "Neucha", cursive;
     font-weight: 400;
@@ -179,7 +179,7 @@ form{
     display: flex;
     flex-direction: column;
     gap: 2px;
-    margin: 10px 0px 0px 240px;
+    margin: 10px 0px 0px 270px;
 }
 
 form label{
