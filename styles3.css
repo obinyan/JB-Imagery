@@ -100,7 +100,7 @@ header{
 /*styling the first horizontal rule*/
 .hr-1{
     width: 400px;
-    height: 1px;
+    
     margin: 80px auto 0 auto;
     background-color: #fff;
 }
@@ -181,7 +181,7 @@ form textarea{
     margin: 50px 0px 0px 0px;
     display: flex;
     flex-direction: column;
-    position: absolute;
+    /*position: absolute;*/
     top: 20px;
     
 }
@@ -213,7 +213,7 @@ form textarea{
 /*styling the second horizontal rule*/
 .hr-2{
     width: 400px;
-    height: 1px;
+    
     margin: 80px auto 0 auto;
     background-color: #fff;
 }
@@ -227,7 +227,7 @@ form textarea{
 
 /*styling the third horizontal rule*/
 .hr-3{
-    height: 1px;
+
     width: 90%;
     margin: 15px 0px 7px 50px;
 }
@@ -246,7 +246,7 @@ form textarea{
 
 /*styling the fourth horizontal rule*/
 .hr-4{
-    height: 1px;
+    
     width: 90%;
     margin: 7px 0px 25px 50px;
 }
