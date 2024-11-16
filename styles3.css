@@ -99,7 +99,9 @@ header{
 
 /*styling the contact question area*/
 .question{
-    margin: 200px 0px 0px 0px;
+    /*margin: 200px 0px 0px 0px;*/
+    position: absolute;
+    top: 100px;
 }
 
 .question h2{
