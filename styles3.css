@@ -227,6 +227,10 @@ form textarea{
     color: #000;
 }
 
+.submit-btn:hover{
+    cursor: pointer;
+}
+
 /*styling the address section*/
 .address-content{
     margin: 100px 0px 0px 0px;
