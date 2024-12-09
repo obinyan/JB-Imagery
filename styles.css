@@ -140,14 +140,16 @@ header{
 }
 
     .gallery p{
-        font-size: 25px;
+    font-size: 25px;
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
-    }
+    color: #000;
+    margin: 15px 0 0 200px;
+}
 
 .gallery i{
-    margin: 50px 0 0 200px;
+    margin: 30px 0 0 200px;
     color: #000;
 }
 
@@ -155,7 +157,7 @@ header{
 .hr-2{
     width: 400px;
     
-    margin: 100px auto 0 auto;
+    margin: 125px auto 0 auto;
     background-color: #000;
 }
 
