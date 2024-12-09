@@ -139,6 +139,13 @@ header{
     flex-direction: column;
 }
 
+    .gallery p{
+        font-size: 25px;
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    }
+
 .gallery i{
     margin: 50px 0 0 200px;
     color: #000;
