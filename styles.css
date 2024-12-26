@@ -224,6 +224,36 @@ header{
     margin: 7px 0px 25px 50px;
 }
 
+/*Styling the page responsiveness nobile view*/
+@media (max-width: 600px) {
+
+    /*styling the heading panel*/
+    .heading-panel{
+        display: block;
+        /*justify-content: space-between;
+        gap: 570px;*/
+        position: absolute;
+        top: 0;
+        z-index: 999;
+    }
+
+    .logo{
+        margin: 10px 0 0 20px;
+        z-index: 999;
+    }
+
+    .logo img{
+        width: 200px;
+    }
+
+    .nav-links ul{
+        display: none;
+        /*justify-content: space-between;
+        gap: 35px;
+        z-index: 999;
+        margin: 30px 0 0 0;*/
+    }
+}
 
 
 
