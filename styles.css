@@ -309,6 +309,82 @@ header{
         margin: 30px 0 0 200px;
         color: #fff;
     }
+
+    /*styling the second horizontal rule*/
+    .hr-2{
+        width: 240px;
+        margin: 80px auto 0 auto;
+        background-color: #fff;
+    }
+
+    /*styling the second section (testimonial section)*/
+    .testimonial h2{
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        font-size: 28px;
+        margin: 100px 0px 0px 0px;
+        color: #fff;
+    }
+
+    .testimonial p{
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 23px;
+        width: 400px;
+        text-align: center;
+        margin: 15px auto 120px auto;
+        color: #fff;
+    }
+
+    /*styling the footer*/
+    .footer-nav-links ul{
+        display: flex;
+        gap: 22px;
+        margin: 0px 0px 0px 50px;
+    }
+
+    .footer-nav-links a{
+        color: #fff;
+        font-size: 22px;
+    }
+
+    /*styling the third horizontal rule*/
+    .hr-3{
+        
+        width: 240px;
+        margin: 15px 0px 7px 50px;
+    }
+
+    /*styling the footer details*/
+    .copyright{
+        display: block;
+        /*gap: 940px;*/
+        margin: 0px 0px 0px 50px;
+    }
+
+    .copyright h3{
+        color: #fff;
+    }
+
+    .footer-nav-icons{
+        display: flex;
+        gap: 20px;
+    }
+
+    .footer-nav-icons img{
+        height: 25px;
+        width: 25px;
+    }
+
+    /*styling the fourth horizontal rule*/
+    .hr-4{
+        
+        width: 90%;
+        margin: 7px 0px 25px 50px;
+    }
 }
 
 
