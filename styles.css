@@ -256,7 +256,7 @@ header {
         font-size: 22px;
     }
 
-    .nav-links, .footer-nav-links li:nth-child(1) {
+    .nav-links li:nth-child(1) {
         display: none;
     }
 
@@ -348,7 +348,7 @@ header {
     /*styling the footer*/
     .footer-nav-links ul {
         display: flex;
-        gap: 20px;
+        gap: 15px;
         margin: 0px 0px 0px 30px;
         font-size: 22px;
     }
