@@ -34,7 +34,7 @@ header{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.4;
+    opacity: 0.2;
 }
 
 /*styling the image slider*/
@@ -130,6 +130,33 @@ header{
 
 .dropdown:hover .dropdown-content{
     display: block;
+}
+
+/*styling the contact question area*/
+.question{
+    /*margin: 200px 0px 0px 0px;*/
+    position: absolute;
+    top: 400px;
+    left: 540px;
+    color: #fff;
+}
+
+.question h2{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
+.question p{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
 }
 
 /*styling the first horizontal rule*/
