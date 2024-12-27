@@ -94,6 +94,39 @@ header{
     margin: 10px 0 0 0 ;
 }
 
+/* styling the dropdown menu for the contact button*/
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content{
+    display: none;
+	position: absolute;
+    margin-left: -5rem;
+    margin-top: rem;
+	background-color: rgba(0, 0, 0, 0.2);
+	min-width: 10rem;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content > a{
+    color: #fff;
+	padding: 1rem 1rem;
+	text-decoration: none;
+	display: block;
+    font-weight: 100;
+}
+
+.dropdown-content > a:hover{
+    background-color: #12100f;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
 /*styling the first horizontal rule*/
 .hr-1{
     width: 400px;
