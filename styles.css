@@ -256,7 +256,7 @@ header {
         font-size: 22px;
     }
 
-    li:nth-child(1) {
+    .nav-links, .footer-nav-links li:nth-child(1) {
         display: none;
     }
 
