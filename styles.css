@@ -339,7 +339,7 @@ header {
         font-weight: 400;
         font-style: normal;
         font-size: 23px;
-        width: 370px;
+        width: 350px;
         text-align: center;
         margin: 15px auto 120px auto;
         color: #fff;
@@ -361,7 +361,7 @@ header {
     /*styling the third horizontal rule*/
     .hr-3 {
 
-        width: 355px;
+        width: 325px;
         margin: 15px 0 7px 20px;
     }
 
@@ -392,7 +392,7 @@ header {
     /*styling the fourth horizontal rule*/
     .hr-4 {
 
-        width: 355px;
+        width: 325px;
         margin: 7px 0 25px 20px;
     }
 }
