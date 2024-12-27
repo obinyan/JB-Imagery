@@ -34,7 +34,7 @@ header{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.2;
+
 }
 
 /*styling the image slider*/
@@ -133,7 +133,7 @@ header{
 }
 
 /*styling the contact question area*/
-.question{
+.opening{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
     top: 400px;
@@ -141,7 +141,7 @@ header{
     color: #fff;
 }
 
-.question h2{
+.opening h2{
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
@@ -150,7 +150,7 @@ header{
     margin: 0px 0px 20px 0px;
 }
 
-.question p{
+.opening p{
     font-family: "Neucha", cursive;
     font-weight: 400;
     font-style: normal;
