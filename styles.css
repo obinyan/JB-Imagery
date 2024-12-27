@@ -348,13 +348,14 @@ header {
     /*styling the footer*/
     .footer-nav-links ul {
         display: flex;
-        gap: 22px;
-        margin: 0px 0px 0px 50px;
+        gap: 35px;
+        margin: 0px 0px 0px 30px;
+        font-size: 22px;
     }
 
     .footer-nav-links a {
         color: #fff;
-        font-size: 22px;
+        
     }
 
     /*styling the third horizontal rule*/
