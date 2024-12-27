@@ -260,6 +260,19 @@ header {
 /*Styling the page responsiveness nobile view*/
 @media (max-width: 600px) {
 
+    .background-image-slider{
+        display: none;
+    }
+
+    header{
+        background-image: url(pic21.jpg);
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
     /*styling the heading panel*/
     .heading-panel {
         display: block;
