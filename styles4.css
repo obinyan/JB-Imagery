@@ -44,7 +44,7 @@ header{
     top: 0;
     left: 0;
     display: flex;
-    filter: blur(1px);
+
   }
 
 .slide{
@@ -52,7 +52,7 @@ header{
     height: 100%;
     background-size: cover;
     background-position: center;
-    background-repeat: n
+    background-repeat: no-repeat;
 }
 
 /*styling the heading panel*/
