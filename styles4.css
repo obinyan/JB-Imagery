@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    background-color: #000;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+li{
+    list-style: none;
+}
+
+/*styling the header section*/
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(pic20.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /*filter: blur(1px);*/
+}
+
+/*styling the heading panel*/
+.heading-panel{
+    display: flex;
+    justify-content: space-between;
+    gap: 570px;
+    position: absolute;
+    top: 0;
+    z-index: 999;
+}
+
+.logo{
+    margin: 10px 0 0 20px;
+    z-index: 999;
+}
+
+.logo img{
+    width: 300px;
+}
+
+.nav-links ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    z-index: 999;
+    margin: 20px auto 0 auto;
+    /*position: absolute;
+    top: 10px;
+    left: 200px;*/
+}
+
+.nav-links a{
+    color: white;
+    margin: 10px 0 0 0 ;
+}
+
+/* styling the dropdown menu for the contact button*/
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content{
+    display: none;
+	position: absolute;
+    margin-left: -5rem;
+    margin-top: rem;
+	background-color: rgba(0, 0, 0, 0.2);
+	min-width: 10rem;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content > a{
+    color: #fff;
+	padding: 1rem 1rem;
+	text-decoration: none;
+	display: block;
+    font-weight: 100;
+}
+
+.dropdown-content > a:hover{
+    background-color: #12100f;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+/*styling the contact question area*/
+.opening{
+    /*margin: 200px 0px 0px 0px;*/
+    position: absolute;
+    top: 400px;
+    left: 540px;
+    color: #fff;
+}
+
+.opening h2{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
+.opening p{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+}

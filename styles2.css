@@ -34,7 +34,7 @@ header{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
+    filter: blur(1px);
 }
 
 /*styling the image slider*/
