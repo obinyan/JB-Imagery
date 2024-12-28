@@ -75,7 +75,7 @@
             <h2>See My Work</h2>
             <div class="gallery">
                 <ul>
-                    <li><a href=""><img src="pic13.jpg" alt=""><p>Portriat</p><i class="fas fa-arrow-right"></i></a></li>
+                    <li><a href=""><img src="pic13.jpg" alt=""><p>Portrait</p><i class="fas fa-arrow-right"></i></a></li>
                     <li><a href=""><img src="pic15.jpg" alt=""><p>Landscape</p><i class="fas fa-arrow-right"></i></a></li>
                     <li><a href=""><img src="pic6.jpg" alt=""><p>Commercial</p><i class="fas fa-arrow-right"></i></a></li>
                 </ul>
@@ -133,6 +133,17 @@
                 slides[currentIndex].classList.remove('active');
                 currentIndex = (currentIndex + 1) % slides.length;
                 slides[currentIndex].classList.add('active');
+            }
+
+            setInterval(showNextSlide, 5000); // Change slide every 3 seconds
+
+            let currentIndexTwo = 0;
+            const slidesTwo = document.querySelectorAll('.mobile-slide');
+
+            function showNextSlide() {
+                slidesTwo[currentIndexTwo].classList.remove('active');
+                currentIndexTwo = (currentIndexTwo + 1) % slidesTwo.length;
+                slidesTwo[currentIndexTwo].classList.add('active');
             }
 
             setInterval(showNextSlide, 5000); // Change slide every 3 seconds
