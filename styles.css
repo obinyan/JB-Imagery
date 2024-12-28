@@ -295,7 +295,7 @@ header {
         left: 0;
     }
 
-    .slide.active {
+    .mobile-slide.active {
         opacity: 1;
     }
 
