@@ -140,13 +140,13 @@
             let currentIndexTwo = 0;
             const slidesTwo = document.querySelectorAll('.mobile-slide');
 
-            function showNextSlide() {
+            function showNextMobileSlide() {
                 slidesTwo[currentIndexTwo].classList.remove('active');
                 currentIndexTwo = (currentIndexTwo + 1) % slidesTwo.length;
                 slidesTwo[currentIndexTwo].classList.add('active');
             }
 
-            setInterval(showNextSlide, 5000); // Change slide every 3 seconds
+            setInterval(showNextMobileSlide, 5000); // Change slide every 3 seconds
         </script>
     </body>
     </html>

@@ -273,31 +273,31 @@ header {
     }
 
     /*styling the mobile image slider*/
-.background-image-slider-2 {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    display: flex;
-}
+    .background-image-slider-2 {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        display: flex;
+    }
 
-.mobile-slide {
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
+    .mobile-slide {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
 
-.slide.active {
-    opacity: 1;
-}
+    .slide.active {
+        opacity: 1;
+    }
 
     /*.mobile-image{
         display: block;
