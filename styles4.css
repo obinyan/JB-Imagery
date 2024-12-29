@@ -123,7 +123,7 @@ header{
     display: block;
 }
 
-/*styling the contact question area*/
+/*styling the  gallery welcome note area*/
 .opening{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
@@ -148,4 +148,22 @@ header{
     font-size: 22px;
     text-align: center;
     margin: 10px 0px 0px 0px;
+}
+
+/*styling the gallery container section*/
+.gallery{
+    width: 100vw;
+    height: auto;
+}
+
+.gallery-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
+.gallery-container img{
+    width: 550px;
+    height: 620px;
 }
