@@ -153,7 +153,7 @@ header{
 /*styling the gallery container section*/
 .gallery{
     width: 100vw;
-    height: auto;
+    height: 235vh;
 }
 
 .gallery-container{
@@ -181,7 +181,7 @@ header{
 }
 
 .gallery-container i {
-    margin: 30px 0 10px 254px;
+    margin: 30px 0 10px 252px;
     color: #fff;
 }
 
@@ -189,8 +189,8 @@ header{
 .footer-nav-links ul{
     display: flex;
     gap: 20px;
-    position: relative;
-    top: 30px;
+    /*position: relative;
+    top: 30px;*/
     margin: 0px 0px 0px 50px;
     color: white;
 }
