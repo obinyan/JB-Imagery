@@ -163,7 +163,7 @@ header{
     grid-gap: 15px;
     position: relative;
     top: 20px;
-    margin: 50px 0 0 75px;
+    margin: 50px 0 0 90px;
 }
 
 .gallery-container img{
@@ -181,7 +181,7 @@ header{
 }
 
 .gallery-container i {
-    margin: 30px 0 10px 265px;
+    margin: 30px 0 10px 258px;
     color: #fff;
 }
 
@@ -189,6 +189,8 @@ header{
 .footer-nav-links ul{
     display: flex;
     gap: 20px;
+    position: absolute;
+    top: 20px;
     margin: 0px 0px 0px 50px;
     color: white;
 }
