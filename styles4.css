@@ -153,7 +153,7 @@ header{
 /*styling the gallery container section*/
 .gallery{
     width: 100vw;
-    height: 235vh;
+    height: 245vh;
 }
 
 .gallery-container{
@@ -181,7 +181,7 @@ header{
 }
 
 .gallery-container i {
-    margin: 30px 0 10px 252px;
+    margin: 30px 0 10px 250px;
     color: #fff;
 }
 
