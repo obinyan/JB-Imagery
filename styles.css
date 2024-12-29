@@ -127,6 +127,15 @@ header {
     display: block;
 }
 
+/*styling the menu bar*/
+.menu-bar{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 26px 50px 0 0;
+}
+
+
 /*styling the welcome note*/
 .welcome-note {
     position: absolute;
