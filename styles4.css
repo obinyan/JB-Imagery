@@ -160,13 +160,27 @@ header{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    grid-gap: 10px;
+    grid-gap: 15px;
     position: relative;
     top: 20px;
-    margin: 50px 0 0 40px;
+    margin: 50px 0 0 60px;
 }
 
 .gallery-container img{
     width: 550px;
-    height: 620px;
+    height: 670px;
+}
+
+.gallery-container p {
+    font-size: 25px;
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    margin: 15px 0 0 170px;
+}
+
+.gallery-container i {
+    margin: 30px 0 0 200px;
+    color: #fff;
 }
