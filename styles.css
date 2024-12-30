@@ -147,7 +147,7 @@ header {
     background-color: #ffffff1e;
     backdrop-filter: blur(50px);
     box-shadow: -10px 0px 10px #000001;
-    display: block;
+    display: none;
    
 }
 
@@ -171,7 +171,7 @@ header {
 
 .sidebar  li{
     /*width: 100%;*/
-    padding: 15px 40px 15px 0;
+    padding: 15px 37px 15px 0;
     text-align: center;
     color: #fff;
 }
