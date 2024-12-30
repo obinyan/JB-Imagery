@@ -172,7 +172,7 @@ header {
 .sidebar  li{
     width: 100%;
     padding: 15px 0 15px 125px;
-    align-content: center;
+    text-align: center;
     color: #fff;
 }
 
@@ -186,6 +186,14 @@ header {
     text-align: center;
     color: #fff;
     font-size: 30px;
+}
+
+/*styling the mobile contact button */
+.contact-btn{
+    position: absolute;
+    top: 0;
+    margin: 80px 0 0 0;
+    display: none;
 }
 
 /*styling the welcome note*/
@@ -403,6 +411,11 @@ header {
     }
 
     .menu-bar{
+        display: block;
+    }
+
+
+    .contact-btn{
         display: block;
     }
 
