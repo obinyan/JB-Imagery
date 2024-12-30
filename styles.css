@@ -171,7 +171,8 @@ header {
 
 .sidebar  li{
     width: 100%;
-    padding: 15px 0 15px 100px;
+    padding: 15px 0 15px 125px;
+    align-content: center;
     color: #fff;
 }
 
