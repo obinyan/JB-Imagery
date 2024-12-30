@@ -143,7 +143,7 @@ header {
     height: 100vh;
     width: 100vw;
     z-index: 999;
-    /*margin-left: 20px;*/
+    /margin-left: 20px;
     background-color: #ffffff1e;
     backdrop-filter: blur(50px);
     box-shadow: -10px 0px 10px #000001;
