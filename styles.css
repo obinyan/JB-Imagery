@@ -132,7 +132,7 @@ header {
     position: absolute;
     top: 0;
     right: 10;
-    margin: 83px 0 0 0;
+    margin: 85px 0 0 0;
     display: none;
 }
 
@@ -192,13 +192,13 @@ header {
 .contact-btn{
     position: absolute;
     top: 0;
-    margin: 90px 0 0 18px;
+    margin: 92px 0 0 18px;
     display: none;
 }
 
 .contact-btn img{
-    height: 45px;
-    width: 45px;
+    height: 40px;
+    width: 40px;
 }
 
 /*styling the welcome note*/
