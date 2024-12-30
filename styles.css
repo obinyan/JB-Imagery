@@ -170,8 +170,8 @@ header {
 }
 
 .sidebar  li{
-    width: 100%;
-    padding: 15px 0 15px 130px;
+    /*width: 100%;*/
+    padding: 15px 100px 15px px;
     text-align: center;
     color: #fff;
 }
@@ -194,6 +194,11 @@ header {
     top: 0;
     margin: 80px 0 0 0;
     display: none;
+}
+
+.contact-btn img{
+    height: 50px;
+    width: 50px;
 }
 
 /*styling the welcome note*/
