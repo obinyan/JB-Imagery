@@ -158,20 +158,20 @@ header {
     align-items: flex-start;
     justify-content: flex-start;*/
     /*margin-left: 20px;*/
-    margin: 20px auto 0 auto;
+    margin: 20px 100px 0 auto;
     /*background: none;*/
 
 }
 
 .sidebar > ul > li > svg{
-    /**width: 50px;
-    height: 80px;
+    width: 50px;
+    /**height: 80px;
     margin-left: 45px;**/
 }
 
 .sidebar  li{
     width: 100%;
-    
+    padding: 15px 0;
     color: #fff;
 }
 
@@ -184,7 +184,7 @@ header {
     height: 100%;
     align-content: center;
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 /*styling the welcome note*/
