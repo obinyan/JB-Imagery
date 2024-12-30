@@ -131,8 +131,8 @@ header {
 .menu-bar{
     position: absolute;
     top: 0;
-    right: -5px;
-    margin: 65px 0 0 0;
+    right: -15px;
+    margin: 70px 0 0 0;
     display: none;
 }
 
