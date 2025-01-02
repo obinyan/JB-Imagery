@@ -213,7 +213,7 @@ header{
     width: 40px;
 }
 
-/*styling the contact question area*/
+/*styling the about me area*/
 .opening{
     /*margin: 200px 0px 0px 0px;*/
     position: absolute;
@@ -406,6 +406,33 @@ header{
         background-position: center;
         background-repeat: no-repeat;
         background-image: url(pic29.jpg);
+    }
+
+    /*styling the about me area*/
+    .opening{
+        /*margin: 200px 0px 0px 0px;*/
+        position: absolute;
+        top: 200px;
+        left: 240px;
+        color: #fff;
+    }
+
+    .opening h2{
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+        text-align: center;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .opening p{
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        margin: 10px 0px 0px 0px;
     }
 }
 
