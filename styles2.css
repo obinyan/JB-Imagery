@@ -384,6 +384,14 @@ header{
 
 @media (max-width: 600px) {
 
+    .background-image-slider{
+        display: none;
+    }
+
+    .m-image{
+        display: block;
+    }
+
     .logo {
         margin: 10px 0px 0 60px;
         z-index: 999;
