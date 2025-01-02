@@ -459,7 +459,7 @@ header{
         width: 250px;
         height: 380px;
         float: none;
-        margin: 50px 0 10px 45px;
+        margin: 50px 0 10px 50px;
     }
 
     .about p{
@@ -467,7 +467,7 @@ header{
         font-weight: 400;
         font-style: normal;
         font-size: 18px;
-        margin: 20px 0 15px 18px;
+        margin: 20px 0 15px 20px;
         width: 330px;
         color: #fff;
     }
