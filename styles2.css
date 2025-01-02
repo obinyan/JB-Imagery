@@ -404,12 +404,17 @@ header{
         display: block;
     }
 
-    .b-image{
+    .background-image-slider{
         display: none;
     }
 
-    .mobile-image{    
-        display: block;
+    .m-image{    
+            display: block;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
     }
 
     /*styling the about me area*/
