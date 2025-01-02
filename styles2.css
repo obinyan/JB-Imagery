@@ -422,7 +422,7 @@ header{
         /*margin: 200px 0px 0px 0px;*/
         position: absolute;
         top: 500px;
-        left: 50px;
+        left: 70px;
         color: #fff;
     }
 
@@ -447,7 +447,7 @@ header{
     /*styling the first horizontal rule*/
     .hr-1 {
         width: 240px;
-        margin: 70px auto 0 auto;
+        margin: 20px auto 0 auto;
         background-color: #fff;
     }
 
@@ -459,7 +459,7 @@ header{
 
     .about img{
         width: 250px;
-        height: 420px;
+        height: 380px;
         /*float: left;*/
         margin: 5px 10px 10px 0px;
     }
