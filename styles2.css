@@ -413,7 +413,6 @@ header{
 
     .contact-btn{
         display: block;
-        z-index: 999;
     }
 
     /*styling the about me area*/
@@ -460,7 +459,7 @@ header{
         width: 250px;
         height: 380px;
         float: none;
-        margin: 20px 0 10px 15px;
+        margin: 20px 0 10px 30px;
     }
 
     .about p{
@@ -468,7 +467,7 @@ header{
         font-weight: 400;
         font-style: normal;
         font-size: 18px;
-        margin: 20px 0 15px 8px;
+        margin: 20px 0 15px 15px;
         width: 330px;
         color: #fff;
     }
@@ -523,7 +522,7 @@ header{
     .arrow-link{
         display: flex;
         gap: 80px;
-        margin: 0 0px 50px 155px;
+        margin: 0 0px 50px 135px;
     }
 
     .arrow-link i{
