@@ -403,18 +403,9 @@ header{
         z-index: 999;
     }
 
-
     .contact-btn{
         display: block;
         z-index: 999;
-    }
-
-    .background-image-slider{
-        display: none;
-    }
-
-    .m-image{    
-        display: block;
     }
 
     /*styling the about me area*/
