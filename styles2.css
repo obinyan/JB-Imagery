@@ -446,7 +446,7 @@ header{
     /*styling the first horizontal rule*/
     .hr-1 {
         width: 240px;
-        margin: 20px auto 0 auto;
+        margin: 25px auto 0 auto;
         background-color: #fff;
     }
 
@@ -460,16 +460,16 @@ header{
         width: 250px;
         height: 380px;
         float: none;
-        margin: 5px 10px 10px px;
+        margin: 20px 0 10px 15px;
     }
 
     .about p{
         font-family: "Neucha", cursive;
         font-weight: 400;
         font-style: normal;
-        font-size: 16px;
-        margin: 20px auto 15px auto;
-        width: 340px;
+        font-size: 18px;
+        margin: 20px 0 15px 8px;
+        width: 330px;
         color: #fff;
     }
 
@@ -523,7 +523,7 @@ header{
     .arrow-link{
         display: flex;
         gap: 80px;
-        margin: 0 0px 50px 100px;
+        margin: 0 0px 50px 155px;
     }
 
     .arrow-link i{
