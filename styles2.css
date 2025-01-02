@@ -459,7 +459,7 @@ header{
         width: 250px;
         height: 380px;
         float: none;
-        margin: 40px 0 10px 30px;
+        margin: 50px 0 10px 40px;
     }
 
     .about p{
@@ -522,7 +522,7 @@ header{
     .arrow-link{
         display: flex;
         gap: 80px;
-        margin: 0 0px 50px 135px;
+        margin: 0 0px 50px 125px;
     }
 
     .arrow-link i{
