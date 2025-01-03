@@ -440,6 +440,15 @@ form textarea{
         display: block;
     }
 
+    /*styling the contact question area*/
+    .question{
+        /*margin: 200px 0px 0px 0px;*/
+        position: absolute;
+        top: 400px;
+        left: 50px;
+        color: #fff;
+    }
+
     /*styling the first horizontal rule*/
     .hr-1 {
         width: 240px;
