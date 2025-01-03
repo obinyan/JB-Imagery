@@ -462,7 +462,7 @@ form textarea{
         font-family: "Neucha", cursive;
         font-weight: 400;
         font-style: normal;
-        margin: 50px 0px 20px 65px;
+        margin: 50px 0px 20px 73px;
     }
 
     .paragraph-1{
@@ -505,7 +505,7 @@ form textarea{
 
     form input{
         height: 30px;
-        width: 340px;
+        width: 325px;
         background: none;
         border-left: none;
         border-right: none;
@@ -515,12 +515,13 @@ form textarea{
     }
 
     form select{
-        width: 340px;
+        width: 325px;
+        height: 30px;
         background-color: #f2f2f2;
     }
 
     form textarea{
-        width: 340px;
+        width: 325px;
         background-color: #000;
         border-left: none;
         border-right: none;
