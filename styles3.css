@@ -439,4 +439,88 @@ form textarea{
     .contact-btn{
         display: block;
     }
+
+    /*styling the first horizontal rule*/
+    .hr-1{
+        width: 400px;
+        margin: 80px auto 0 auto;
+        background-color: #fff;
+    }
+
+    /*styling the complemetary note*/
+    .first-section h2{
+        font-size: 32px;
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        margin: 50px 0px 20px 240px;
+    }
+
+    .paragraph-1{
+        width: 800px;
+        font-size: 20px;
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        margin: 10px 0px 20px 200px;
+    }
+
+
+    /*styling the second horizontal rule*/
+    .hr-2 {
+        width: 240px;
+        margin: 80px auto 0 auto;
+        background-color: #fff;
+    }
+
+    /*styling the footer*/
+    .footer-nav-links ul {
+        display: flex;
+        gap: 15px;
+        margin: 0px 0px 0px 30px;
+        font-size: 20px;
+    }
+
+    .footer-nav-links a {
+        color: #fff;
+        
+    }
+
+    /*styling the third horizontal rule*/
+    .hr-3 {
+
+        width: 325px;
+        margin: 15px 0 7px 20px;
+    }
+
+    /*styling the footer details*/
+    .copyright {
+        display: block;
+        /*gap: 940px;*/
+        margin: 0px 0px 0px 50px;
+    }
+
+    .copyright h3 {
+        color: #fff;
+        /*text-align: center;*/
+        margin: 5px 0px 0px -20px;
+    }
+
+    .footer-nav-icons {
+        display: flex;
+        gap: 20px;
+        margin: 5px 0 0 -20px;
+    }
+
+    .footer-nav-icons img {
+        height: 25px;
+        width: 25px;
+    }
+
+    /*styling the fourth horizontal rule*/
+    .hr-4 {
+
+        width: 325px;
+        margin: 7px 0 25px 20px;
+    }
 }
