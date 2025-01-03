@@ -386,7 +386,7 @@ header{
 
     .gallery-container img{
         width: 360px;
-        height: 580px;
+        height: 570px;
     }
 
     .gallery-container p {
@@ -395,11 +395,11 @@ header{
         font-weight: 400;
         font-style: normal;
         color: #fff;
-        margin: 15px 0 0 120px;
+        margin: 15px 0 0 140px;
     }
 
     .gallery-container i {
-        margin: 30px 0 80px 160px;
+        margin: 30px 0 80px 170px;
         color: #fff;
     }
 
