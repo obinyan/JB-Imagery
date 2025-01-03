@@ -395,11 +395,11 @@ header{
         font-weight: 400;
         font-style: normal;
         color: #fff;
-        margin: 15px 0 0 80px;
+        margin: 15px 0 0 120px;
     }
 
     .gallery-container i {
-        margin: 30px 0 30px 110px;
+        margin: 30px 0 80px 160px;
         color: #fff;
     }
 
