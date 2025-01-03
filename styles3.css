@@ -340,3 +340,29 @@ form textarea{
     width: 90%;
     margin: 7px 0px 25px 50px;
 }
+
+@media (max-width: 600px) {
+
+    .logo {
+        margin: 10px 0px 0 60px;
+        z-index: 999;
+    }
+
+    .logo img {
+        width: 250px;
+        height: auto;
+    }
+
+    .nav-links{
+        display: none;
+    }
+
+    .menu-bar{
+        display: block;
+        z-index: 999;
+    }
+
+    .contact-btn{
+        display: block;
+    }
+}
